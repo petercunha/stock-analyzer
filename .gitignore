@@ -1,0 +1,63 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Test output
+coverage/
+*.cover
+
+# Pytest cache
+.pytest_cache/
+
+# IDE and editor settings
+.idea/
+*.iml
+
+# Git-related
+*.orig
+
+# Pylint reports
+pylint.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+coverage.xml
+*.cover
+*.py,cover
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+
+# MyPy cache
+.mypy_cache/
