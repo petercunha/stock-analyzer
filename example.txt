@@ -1,0 +1,271 @@
+
+
+ASC
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   220.06      192.48      445.74      395.98      422.62       Positive (60.86x)
+Gross Profit               43.42        8.05      195.53      167.11      188.97       Positive (45.02x)
+Operating Profit           24.80      -14.76      163.62      131.67      150.22       Positive (39.73x)
+Net Income                 -6.05      -36.83      138.45      116.81      153.08       Positive (47.19x)
+Total Assets              752.01      724.53      723.86      690.95      722.81       Negative (-9.20x)
+Total Liabilities         431.67      395.54      217.42      116.51       58.77     Negative (-102.48x)
+Total Equity              320.33      329.00      506.44      574.44      664.04       Positive (93.29x)
+Free Cash Flow             25.19       -5.52      120.40      134.22       38.62       Positive (16.66x)
+
+
+BTU
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                  2881.10     3318.30     4981.90     4946.70     4348.60      Positive (456.34x)
+Gross Profit              356.20      765.20     1691.10     1561.60     1011.90      Positive (210.78x)
+Operating Profit         -135.00      326.90     1235.30     1058.10      542.40      Positive (208.60x)
+Net Income              -1870.30      360.10     1297.10      759.60      532.30      Positive (520.47x)
+Total Assets             4667.10     4949.80     5610.80     5962.10     5866.90      Positive (341.19x)Total Equity              981.30     1820.80     3294.80     3607.50     3690.40      Positive (720.49x)
+Free Cash Flow           -207.20      236.90      949.40      687.20      268.40      Positive (140.15x)
+
+
+CGAU
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   721.26      900.14      850.19     1094.90     1252.07      Positive (125.64x)
+Gross Profit              215.49      291.96      178.52      264.00      436.44       Positive (41.40x)
+Operating Profit           41.66      172.29      103.49       42.98      238.75       Positive (26.49x)
+Net Income                408.54     -381.77      -77.21      -81.28      104.12      Negative (-30.83x)
+Total Assets             3136.01     2676.57     2335.91     2280.77     2334.27     Negative (-199.93x)
+Total Liabilities         669.99      632.95      525.62      606.52      589.66      Negative (-18.71x)
+Total Equity             2466.02     2043.62     1810.29     1674.24     1744.62     Negative (-181.22x)
+Free Cash Flow            826.45      322.26      -82.91      160.29       37.46     Negative (-174.00x)
+
+
+DDI
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   358.34      363.20      321.03      308.86      342.46       Negative (-8.61x)
+Gross Profit              232.09      236.59      211.72      209.79      238.72       Negative (-1.35x)
+Operating Profit           88.78      102.23       97.77      118.19      138.09       Positive (11.46x)
+Net Income                 53.62       78.11     -233.98      100.89      114.45       Positive (14.44x)
+Total Assets              806.83      969.81      792.05      803.34      879.85       Negative (-2.04x)
+Total Liabilities         107.32      105.93      165.83       75.45       64.24      Negative (-11.66x)
+Total Equity              699.51      863.88      626.23      727.89      815.61        Positive (9.62x)
+Free Cash Flow             99.63       95.84       50.52       20.64       31.56      Negative (-21.13x)
+
+
+DINO
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                 11183.64    18389.14    38204.84    31964.40    29740.25     Positive (5068.85x)
+Gross Profit             1425.43     2628.67     6815.63     5138.95     3354.02      Positive (636.75x)
+Operating Profit         -188.45      749.19     4054.25     2202.57      419.61      Positive (266.95x)
+Net Income               -601.45      558.32     2922.67     1589.67      328.32      Positive (289.09x)
+Total Assets            11506.86    12916.61    18125.48    17716.26    16887.66     Positive (1556.12x)
+Total Liabilities        5784.66     6622.15     8107.91     7478.97     7217.25      Positive (372.20x)
+Total Equity             5722.20     6294.47    10017.57    10237.30     9670.41     Positive (1183.92x)
+Free Cash Flow            127.77     -406.73     3253.15     1911.82      583.97      Positive (323.10x)
+
+
+GGB
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                 43814.66    78345.08    82412.21    68916.45    64919.63     Positive (3278.13x)
+Gross Profit             5930.56    20817.36    18751.05    11332.45     8816.00     Negative (-371.40x)
+Operating Profit         5517.87    20019.88    16599.71     9888.85     6519.42     Negative (-812.79x)
+Net Income               2365.76    15494.11    11425.51     7501.56     4828.24     Negative (-306.76x)
+Total Assets            63123.01    73814.61    73798.65    74885.14    81851.32     Positive (3852.71x)
+Total Liabilities       32037.80    30998.96    27500.46    25646.28    26335.38    Negative (-1675.75x)
+Total Equity            31085.21    42815.65    46298.19    49238.86    55515.94     Positive (5528.47x)
+Free Cash Flow           4602.88     9324.60     6669.08     5802.39     4127.95     Negative (-447.21x)
+
+
+GIII
+
+Metric                      2024        2023        2022        2021     MRQ/TTM               Slope
+Revenue                  2055.15     2766.54     3226.73     3098.24     3086.39      Positive (239.42x)
+Gross Profit              744.44      988.19     1101.14     1241.85     1250.16      Positive (126.51x)
+Operating Profit          100.72      312.55      240.22      290.10      298.32       Positive (37.28x)
+Net Income                 23.55      200.59     -133.06      176.17      186.51       Positive (30.15x)
+Total Assets             2436.39     2742.53     2712.41     2681.16     2696.29       Positive (45.84x)
+Total Liabilities        1099.18     1222.14     1327.81     1133.18     1183.65        Positive (8.00x)
+Total Equity             1337.20     1520.38     1384.60     1547.98     1512.63       Positive (37.85x)
+Free Cash Flow             54.63      154.29     -126.21      562.85       38.69       Positive (37.67x)
+
+
+GNK
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   355.56      547.13      536.93      383.82      439.33        Positive (0.42x)
+Gross Profit               35.68      226.26      196.26       68.16      120.77        Positive (1.21x)
+Operating Profit            7.45      196.19      167.24       35.87       83.00       Negative (-0.92x)
+Net Income               -225.57      182.01      158.58      -12.87       68.66       Positive (39.36x)
+Total Assets             1232.81     1203.00     1173.87     1141.90     1044.50      Negative (-43.77x)
+Total Liabilities         487.81      286.33      205.56      227.26      112.88      Negative (-80.89x)
+Total Equity              744.99      916.67      968.31      914.65      931.62       Positive (37.12x)
+Free Cash Flow             16.86      113.66      133.28       -2.23       32.12       Negative (-8.54x)
+
+
+GSL
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   282.27      402.52      604.49      666.72      701.48      Positive (110.26x)
+Gross Profit              121.31      197.56      334.59      372.19      392.28       Positive (71.66x)
+Operating Profit          112.96      184.32      316.06      353.97      374.77       Positive (69.33x)
+Net Income                 41.56      171.50      292.93      304.50      328.11       Positive (70.61x)
+Total Assets             1274.19     1994.11     2106.22     2171.78     2238.01      Positive (210.53x)
+Total Liabilities         809.45     1281.56     1139.72      987.39      850.62      Negative (-21.18x)
+Total Equity              464.74      712.55      966.49     1184.39     1387.38      Positive (231.71x)
+Free Cash Flow             57.98     -223.68      318.25      222.53      109.10       Positive (54.85x)
+
+
+GSM
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                  1144.43     1778.91     2597.92     1650.03     1652.39       Positive (88.70x)
+Gross Profit              200.76      496.68     1231.27      697.22      599.91       Positive (99.88x)
+Operating Profit         -112.45       31.25      717.55      222.23      125.56       Positive (66.70x)
+Net Income               -246.34     -110.62      440.31       82.66       40.55       Positive (76.71x)
+Total Assets             1347.14     1523.34     1957.84     1758.77     1638.93       Positive (81.90x)
+Total Liabilities         981.43     1203.31     1201.03      888.88      723.23      Negative (-83.08x)
+Total Equity              365.72      320.03      756.81      869.89      915.71      Positive (164.98x)
+Free Cash Flow            121.36      -28.94      351.72       91.91      -10.04      Negative (-14.19x)
+
+
+HGBL
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                    26.18       25.79       46.91       60.55       49.88        Positive (8.21x)
+Gross Profit               10.33       11.01       10.39       21.39       13.28        Positive (1.63x)
+Operating Profit            2.26        2.49        4.14       13.26        9.13        Positive (2.45x)
+Net Income                  9.66        3.05       15.49       12.47       10.28        Positive (1.07x)
+Total Assets               44.55       50.46       67.56       83.17       88.53       Positive (12.07x)
+Total Liabilities          14.61       17.82       19.26       22.09       22.40        Positive (1.98x)
+Total Equity               29.94       32.64       48.30       61.08       66.13       Positive (10.08x)
+Free Cash Flow              9.14       -4.06        6.27       12.76        5.49        Positive (0.95x)
+
+
+MOV
+
+Metric                      2024        2023        2022        2021     MRQ/TTM               Slope
+Revenue                   506.40      732.39      751.90      672.60      663.29       Positive (25.40x)
+Gross Profit              270.50      419.06      433.89      370.39      360.98       Positive (13.23x)
+Operating Profit           13.79      117.49      120.35       54.70       40.50       Negative (-0.94x)
+Net Income               -111.52       91.60       94.53       46.71       36.15       Positive (25.04x)
+Total Assets              719.26      761.16      787.71      769.08      759.19        Positive (8.78x)
+Total Liabilities         289.32      284.07      277.16      250.12      252.61      Negative (-10.74x)
+Total Equity              429.93      477.09      510.54      518.96      506.57       Positive (19.52x)
+Free Cash Flow             65.23      124.87       47.05       68.41      -20.16      Negative (-22.72x)
+
+
+NOV
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                  6090.00     5524.00     7237.00     8583.00     8905.00      Positive (868.90x)
+Gross Profit              434.00      774.00     1334.00     1833.00     2014.00      Positive (421.90x)
+Operating Profit         -534.00     -134.00      264.00      651.00      830.00      Positive (351.30x)
+Net Income              -2542.00     -250.00      155.00      993.00     1073.00      Positive (847.30x)
+Total Assets             9929.00     9550.00    10135.00    11294.00    11422.00      Positive (473.00x)
+Total Liabilities        4650.00     4486.00     5001.00     5052.00     4906.00      Positive (107.80x)
+Total Equity             5279.00     5064.00     5134.00     6242.00     6516.00      Positive (365.20x)
+Free Cash Flow            700.00       90.00     -393.00     -140.00      277.00     Negative (-107.60x)
+
+
+PERI
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   328.06      478.50      640.26      743.15      602.94       Positive (81.44x)
+Gross Profit              107.96      165.28      237.25      272.38      203.02       Positive (29.72x)
+Operating Profit           12.25       43.65      105.35      135.43       43.22       Positive (15.37x)
+Net Income                 10.22       38.71       99.22      117.41       47.07       Positive (15.24x)
+Total Assets              358.68      713.23      870.22     1077.27      892.47      Positive (143.16x)
+Total Liabilities         174.56      246.27      287.08      359.12      170.65       Positive (10.50x)
+Total Equity              184.12      466.96      583.13      718.15      721.82      Positive (132.66x)
+Free Cash Flow             21.70       70.48      121.06      154.65       11.90        Positive (6.46x)
+
+
+SDRL
+
+Metric                      2023        2021        2020        2019     MRQ/TTM               Slope
+Revenue                  1388.00      961.00      907.00     1502.00     1504.00       Positive (77.30x)
+Gross Profit             -239.00     -323.00      -38.00      413.00      360.00      Positive (193.40x)
+Operating Profit         -295.00     -388.00      -51.00      339.00      274.00      Positive (186.50x)
+Net Income              -1219.00    -4659.00     -587.00      300.00      418.00      Positive (823.30x)
+Total Assets             3961.00     3897.00     2801.00     4218.00     4152.00       Positive (70.30x)
+Total Liabilities        7101.00     7613.00     1099.00     1235.00     1239.00    Negative (-1810.20x)
+Total Equity            -3140.00    -3716.00     1702.00     2983.00     2913.00     Positive (1880.50x)
+Free Cash Flow           -304.00     -447.00     -183.00      186.00      -80.00      Positive (108.10x)
+
+
+STNG
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   915.89      540.79     1562.87     1341.22     1376.30      Positive (172.12x)
+Gross Profit              328.37      -37.76      939.62      809.89      842.47      Positive (187.59x)
+Operating Profit          262.18      -90.51      851.48      703.64      713.16      Positive (169.61x)
+Net Income                 94.12     -234.44      637.25      546.90      721.11      Positive (203.53x)
+Total Assets             5158.62     5013.97     4559.16     4228.65     3848.17     Negative (-340.62x)
+Total Liabilities        3092.86     3177.04     2052.36     1674.95     1008.42     Negative (-567.10x)
+Total Equity             2065.77     1836.93     2506.81     2553.71     2839.76      Positive (226.48x)
+Free Cash Flow            244.90       26.20      734.85      842.40      187.26       Positive (70.09x)
+
+
+STRT
+
+Metric                      2024        2023        2022        2021     MRQ/TTM               Slope
+Revenue                   485.30      452.26      492.95      537.77      541.41       Positive (19.77x)
+Gross Profit               78.66       56.02       42.15       65.47       65.67       Negative (-1.65x)
+Operating Profit           33.91        8.90       -6.09       17.81       16.51       Negative (-2.59x)
+Net Income                 22.53        7.02       -6.67       16.31       15.85       Negative (-0.41x)
+Total Assets              310.56      319.13      340.93      364.29      366.87       Positive (15.78x)
+Total Liabilities          97.13       99.19      129.91      138.67      139.81       Positive (12.48x)
+Total Equity              213.43      219.95      211.02      225.62      227.06        Positive (3.29x)
+Free Cash Flow             26.22       -3.75       -7.28        2.48        9.26       Negative (-2.77x)
+
+
+TNK
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   886.43      542.37     1063.11     1364.45     1191.50      Positive (143.22x)
+Gross Profit              251.42      -58.01      290.65      572.73      440.27      Positive (100.84x)
+Operating Profit          212.42     -101.73      248.88      526.80      390.75       Positive (98.52x)
+Net Income                 87.32     -242.37      229.09      513.67      422.25      Positive (142.59x)
+Total Assets             1840.24     1618.75     1783.65     1873.49     1916.25       Positive (40.68x)
+Total Liabilities         761.34      780.34      713.65      347.71      171.32     Negative (-161.27x)
+Total Equity             1078.90      838.41     1070.01     1525.79     1744.94      Positive (201.94x)
+Free Cash Flow            331.92     -128.76      177.84      615.87       44.17       Positive (16.91x)
+
+
+ULBI
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   107.71       98.27      131.84      158.64      165.15       Positive (17.53x)
+Gross Profit               29.16       24.64       29.40       39.20       43.12        Positive (4.25x)
+Operating Profit            5.70        0.04        0.13        9.47       12.14        Positive (2.23x)
+Net Income                  5.23       -0.23       -0.12        7.20        8.99        Positive (1.49x)
+Total Assets              137.70      159.54      168.43      178.28      172.44        Positive (8.82x)
+Total Liabilities          20.78       41.80       52.03       52.85       37.81        Positive (4.51x)
+Total Equity              116.92      117.74      116.40      125.43      134.63        Positive (4.31x)
+Free Cash Flow             18.62        1.51       -2.94       -0.62        4.15       Negative (-3.11x)
+
+
+VPG
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                   269.81      317.92      362.58      355.05      323.40       Positive (14.43x)
+Gross Profit              104.27      125.14      149.60      150.34      136.26        Positive (8.92x)
+Operating Profit           26.02       29.87       45.32       43.51       29.86        Positive (2.13x)
+Net Income                 10.79       20.22       36.06       25.71       13.37        Positive (1.07x)
+Total Assets              401.89      461.89      476.74      471.57      462.53       Positive (13.10x)
+Total Liabilities         144.03      184.85      170.22      141.64      131.87       Negative (-6.75x)
+Total Equity              257.86      277.04      306.52      329.93      330.66       Positive (19.85x)
+Free Cash Flow             12.36       16.48       11.74       30.74       -2.62       Negative (-1.57x)
+
+
+ZEUS
+
+Metric                      2023        2022        2021        2020     MRQ/TTM               Slope
+Revenue                  1234.14     2312.25     2559.99     2158.16     2012.30      Positive (140.22x)
+Gross Profit              255.04      510.20      486.06      473.50      459.39       Positive (37.20x)
+Operating Profit            0.57      172.47      133.75       77.67       52.15        Positive (0.84x)
+Net Income                 -5.59      121.05       90.93       44.53       26.50       Negative (-1.23x)
+Total Assets              640.61     1023.57      891.63      984.84     1012.01       Positive (70.41x)
+Total Liabilities         339.60      599.13      375.66      429.36      441.40        Positive (3.38x)
+Total Equity              301.01      424.44      515.97      555.48      570.61       Positive (67.02x)
+Free Cash Flow             51.85     -157.38      166.00      153.83       15.56       Positive (23.86x)
